@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kjscott27 (Kyle Scott)
+- 👀 I’m interested in React/Javascript Projects, Python / AI Gaming Projects
+- 🌱 I’m currently learning full-stack javascript applications with Express and Apollo GraphQL
+- 💞️ I’m looking to collaborate on any opensource javascript projects with first time contributor items
+- 📫 How to reach me: kylejscott27@gmail.com
