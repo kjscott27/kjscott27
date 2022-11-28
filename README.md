@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Kyle Scott (@kjscott27)
-- 💼 I currently work for [Telus Mental Health](https://www.telus.com/en/health/care-centres/mental-health) as a Software Engineer
+- 💼 I currently work for [Telus Mental Health](https://www.telus.com/en/health/care-centres/mental-health) as a Software Engineer (previously known as [LifeWorks](https://www.telus.com/en/health/press-releases/telus-completes-lifeworks-acquisition))
 - 🌱 Trying to learn C# and become a more experienced modder of games that are subject to it
 - 💞️ I’m looking to collaborate on any opensource Javascript projects with first time contributor items
 - 📫 Reach me via email: kylejscott27@gmail.com
