@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @kjscott27 (Kyle Scott)
-- 👀 I’m interested in React/Javascript Projects, Python / AI Gaming Projects
-- 🌱 I’m currently learning full-stack javascript applications with Express and Apollo GraphQL
-- 💞️ I’m looking to collaborate on any opensource javascript projects with first time contributor items
-- 📫 How to reach me: kylejscott27@gmail.com
+- 👋 Hi, I'm Kyle Scott (@kjscott27)
+- 💼 I currently work for [Telus Mental Health](https://www.telus.com/en/health/care-centres/mental-health) as a Software Engineer
+- 🌱 Trying to learn C# and become a more experienced modder of games that are subject to it
+- 💞️ I’m looking to collaborate on any opensource Javascript projects with first time contributor items
+- 📫 Reach me via email: kylejscott27@gmail.com
